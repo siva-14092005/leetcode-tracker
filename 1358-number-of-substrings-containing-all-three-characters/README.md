@@ -29,6 +29,9 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+
+<img width="817" height="800" alt="image" src="https://github.com/user-attachments/assets/b971dbe9-23d9-481a-8b6d-077404ac6ed7" />
+
 <ul>
 	<li><code>3 &lt;= s.length &lt;= 5 x 10^4</code></li>
 	<li><code>s</code>&nbsp;only consists of&nbsp;<em>a</em>, <em>b</em> or <em>c&nbsp;</em>characters.</li>
