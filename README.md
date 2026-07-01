@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siva-14092005/leetcode-tracker/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2381-shifting-letters-ii](https://github.com/siva-14092005/leetcode-tracker/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -21,15 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/siva-14092005/leetcode-tracker/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/siva-14092005/leetcode-tracker/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1094-car-pooling](https://github.com/siva-14092005/leetcode-tracker/tree/main/1094-car-pooling/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Sliding Window
@@ -45,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1094-car-pooling](https://github.com/siva-14092005/leetcode-tracker/tree/main/1094-car-pooling/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/siva-14092005/leetcode-tracker/tree/main/1094-car-pooling/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
