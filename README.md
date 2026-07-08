@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 <!---LeetCode Topics End-->
