@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/siva-14092005/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/siva-14092005/leetcode-tracker/tree/main/0038-count-and-say/) | Medium |
 | [0205-isomorphic-strings](https://github.com/siva-14092005/leetcode-tracker/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/siva-14092005/leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/siva-14092005/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/siva-14092005/leetcode-tracker/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/siva-14092005/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/siva-14092005/leetcode-tracker/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/siva-14092005/leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/siva-14092005/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/siva-14092005/leetcode-tracker/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/siva-14092005/leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1094-car-pooling](https://github.com/siva-14092005/leetcode-tracker/tree/main/1094-car-pooling/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
