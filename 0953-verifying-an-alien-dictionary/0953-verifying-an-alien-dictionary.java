@@ -28,7 +28,7 @@ class Solution {
                 {
                     boo = 1;
 
-                    
+
                     break; 
                     
                 }
