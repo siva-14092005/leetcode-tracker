@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1002-find-common-characters/) | Easy |
 | [1094-car-pooling](https://github.com/siva-14092005/leetcode-tracker/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/siva-14092005/leetcode-tracker/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/siva-14092005/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/siva-14092005/leetcode-tracker/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1002-find-common-characters/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siva-14092005/leetcode-tracker/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/siva-14092005/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/siva-14092005/leetcode-tracker/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1002-find-common-characters/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/siva-14092005/leetcode-tracker/tree/master/2150-find-all-lonely-numbers-in-the-array) |
