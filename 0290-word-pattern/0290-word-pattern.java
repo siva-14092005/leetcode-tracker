@@ -23,6 +23,8 @@ class Solution {
                 map.put(p[i],ans[i]);
             }
         }
+        
+        if(flag == false) return false;
 
         for(int i = 0;i<p.length;i++)
         {
