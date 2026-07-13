@@ -1,7 +1,7 @@
 class Solution {
     public int minFlips(String target) 
     {
-        int state = '0';
+        char  state = '0';
         int count = 0;
 
         for(char a : target.toCharArray())
