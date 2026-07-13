@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1002-find-common-characters/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1529-minimum-suffix-flips](https://github.com/siva-14092005/leetcode-tracker/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siva-14092005/leetcode-tracker/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2381-shifting-letters-ii](https://github.com/siva-14092005/leetcode-tracker/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/siva-14092005/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1529-minimum-suffix-flips](https://github.com/siva-14092005/leetcode-tracker/tree/main/1529-minimum-suffix-flips/) | Medium |
 <!---LeetCode Topics End-->
