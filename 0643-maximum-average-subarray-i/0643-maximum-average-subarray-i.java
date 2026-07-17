@@ -5,12 +5,12 @@ class Solution {
 
         int  l = 0;
         int r  = k-1;
-        double sum = 0;
+        int  sum = 0;
     
         for(int i = 0;i<=r;i++)
         sum += nums[i];
 
-        double max_ans = sum;
+        int  max_ans = sum;
 
         while(r<nums.length-1)
         {
@@ -21,6 +21,6 @@ class Solution {
             max_ans = Math.max(max_ans,sum);
         }  
 
-        return max_ans/k;
+        return (double)max_ans/k;
     }
 }
