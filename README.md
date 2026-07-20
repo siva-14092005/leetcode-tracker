@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/siva-14092005/leetcode-tracker/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/siva-14092005/leetcode-tracker/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/siva-14092005/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siva-14092005/leetcode-tracker/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/siva-14092005/leetcode-tracker/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/siva-14092005/leetcode-tracker/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/siva-14092005/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siva-14092005/leetcode-tracker/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-14092005/leetcode-tracker/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Prefix Sum
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/siva-14092005/leetcode-tracker/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/siva-14092005/leetcode-tracker/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/siva-14092005/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/siva-14092005/leetcode-tracker/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
