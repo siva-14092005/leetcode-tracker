@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/siva-14092005/leetcode-tracker/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/siva-14092005/leetcode-tracker/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/siva-14092005/leetcode-tracker/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/siva-14092005/leetcode-tracker/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/siva-14092005/leetcode-tracker/tree/main/1683-invalid-tweets/) | Easy |
