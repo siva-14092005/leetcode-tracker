@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/siva-14092005/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/siva-14092005/leetcode-tracker/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/siva-14092005/leetcode-tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1002-find-common-characters/) | Easy |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/siva-14092005/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/siva-14092005/leetcode-tracker/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/siva-14092005/leetcode-tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1002-find-common-characters/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/siva-14092005/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/siva-14092005/leetcode-tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/siva-14092005/leetcode-tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/siva-14092005/leetcode-tracker/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
