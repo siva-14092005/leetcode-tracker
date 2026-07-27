@@ -19,7 +19,7 @@ class Solution {
 
            //invalid
 
-           while(map.size() > 2)
+           if(map.size() > 2)
            {
               int y = fruits[l];
               map.put(y,map.get(y)-1);
