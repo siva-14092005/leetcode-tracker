@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-14092005/leetcode-tracker/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/siva-14092005/leetcode-tracker/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/siva-14092005/leetcode-tracker/tree/main/1094-car-pooling/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/siva-14092005/leetcode-tracker/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/siva-14092005/leetcode-tracker/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
