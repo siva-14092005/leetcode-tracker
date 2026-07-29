@@ -14,12 +14,12 @@ class Solution {
         {
               char x = nums[r];
               map.put(x,map.getOrDefault(x,0)+1);
-              
+
               max_freq = Math.max(max_freq,map.get(x));
 
               //invalid
 
-              while((r-l+1) - max_freq > k)
+              if((r-l+1) - max_freq > k)
               {
                 char y = nums[l];
                 map.put(y,map.get(y)-1);
