@@ -6,7 +6,7 @@ class Solution {
         int total  = 0;
 
         int freq[] = new int[26];
-        Arrays.fill(freq,0);
+       // Arrays.fill(freq,0);
 
         for(char x : word.toCharArray())
         {
@@ -37,6 +37,9 @@ class Solution {
          }
 
          return total;
+
+         // its tto much compolex as i added another for loop to reverse 
+         // but basically we can just traverse backwards right !!
 
     }
 }
