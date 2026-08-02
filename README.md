@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/siva-14092005/leetcode-tracker/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/siva-14092005/leetcode-tracker/tree/main/1251-average-selling-price/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/siva-14092005/leetcode-tracker/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/siva-14092005/leetcode-tracker/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/siva-14092005/leetcode-tracker/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/siva-14092005/leetcode-tracker/tree/main/1661-average-time-of-process-per-machine/) | Easy |
