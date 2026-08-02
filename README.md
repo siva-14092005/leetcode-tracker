@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0177-nth-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/siva-14092005/leetcode-tracker/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0184-department-highest-salary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0184-department-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/siva-14092005/leetcode-tracker/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/siva-14092005/leetcode-tracker/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/siva-14092005/leetcode-tracker/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/siva-14092005/leetcode-tracker/tree/main/0584-find-customer-referee/) | Easy |
