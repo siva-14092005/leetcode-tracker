@@ -9,4 +9,4 @@ FROM Activity
 GROUP BY player_id
 ) as x
 on x.player_id = a.player_id
-where event_date =  date_add(first_login, interval 1 day);
+where datediff(event_date,first_login) = 1;
