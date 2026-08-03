@@ -1,11 +1,10 @@
-# Write your MySQL query statement below
-select d.name as department , e.name as employee,salary 
-from employee e
-left join department d 
-on e.departmentId = d.id 
-where e.salary = 
+select Department,Employee,Salary
+from
 (
-    select max(salary)
-    from employee
-    where departmentId =  e.departmentId
-)
+    select e.name as Employee, e.id,e.salary,e.departmentId,d.name as Department,
+    dense_rank() over(partition by d.id order by  e.salary desc ) as rno
+    from employee e
+    join department d 
+    on e.departmentId = d.id
+) as x 
+where rno = 1;
