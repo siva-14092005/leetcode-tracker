@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siva-14092005/leetcode-tracker/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1529-minimum-suffix-flips](https://github.com/siva-14092005/leetcode-tracker/tree/main/1529-minimum-suffix-flips/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/siva-14092005/leetcode-tracker/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siva-14092005/leetcode-tracker/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/siva-14092005/leetcode-tracker/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/siva-14092005/leetcode-tracker/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/siva-14092005/leetcode-tracker/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/siva-14092005/leetcode-tracker/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/siva-14092005/leetcode-tracker/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siva-14092005/leetcode-tracker/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/siva-14092005/leetcode-tracker/tree/main/3731-find-missing-elements/) | Easy |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/siva-14092005/leetcode-tracker/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/siva-14092005/leetcode-tracker/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/siva-14092005/leetcode-tracker/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/siva-14092005/leetcode-tracker/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siva-14092005/leetcode-tracker/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
