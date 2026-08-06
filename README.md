@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/siva-14092005/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/siva-14092005/leetcode-tracker/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/siva-14092005/leetcode-tracker/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Greedy
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siva-14092005/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
