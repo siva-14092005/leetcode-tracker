@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/siva-14092005/leetcode-tracker/tree/main/0608-tree-node/) | Medium |
 | [0619-biggest-single-number](https://github.com/siva-14092005/leetcode-tracker/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/siva-14092005/leetcode-tracker/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/siva-14092005/leetcode-tracker/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/1148-article-views-i/) | Easy |
