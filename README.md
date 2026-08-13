@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/siva-14092005/leetcode-tracker/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/siva-14092005/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/siva-14092005/leetcode-tracker/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/siva-14092005/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/siva-14092005/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/siva-14092005/leetcode-tracker/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/siva-14092005/leetcode-tracker/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/siva-14092005/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/siva-14092005/leetcode-tracker/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/siva-14092005/leetcode-tracker/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/siva-14092005/leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/siva-14092005/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/siva-14092005/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/siva-14092005/leetcode-tracker/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/siva-14092005/leetcode-tracker/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siva-14092005/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/siva-14092005/leetcode-tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Database
