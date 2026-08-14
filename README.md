@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/siva-14092005/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
+| [0507-perfect-number](https://github.com/siva-14092005/leetcode-tracker/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/siva-14092005/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/siva-14092005/leetcode-tracker/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
