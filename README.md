@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/siva-14092005/leetcode-tracker/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/siva-14092005/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0038-count-and-say](https://github.com/siva-14092005/leetcode-tracker/tree/main/0038-count-and-say/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/siva-14092005/leetcode-tracker/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/siva-14092005/leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/siva-14092005/leetcode-tracker/tree/main/0290-word-pattern/) | Easy |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/siva-14092005/leetcode-tracker/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
