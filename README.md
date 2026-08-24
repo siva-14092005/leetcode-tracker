@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/siva-14092005/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/siva-14092005/leetcode-tracker/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/siva-14092005/leetcode-tracker/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/siva-14092005/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/siva-14092005/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/siva-14092005/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/siva-14092005/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
