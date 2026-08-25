@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/siva-14092005/leetcode-tracker/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/siva-14092005/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/siva-14092005/leetcode-tracker/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/siva-14092005/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/siva-14092005/leetcode-tracker/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/siva-14092005/leetcode-tracker/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/siva-14092005/leetcode-tracker/tree/main/0278-first-bad-version/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/siva-14092005/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/siva-14092005/leetcode-tracker/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/siva-14092005/leetcode-tracker/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Database
