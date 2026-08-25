@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/siva-14092005/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/siva-14092005/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/siva-14092005/leetcode-tracker/tree/main/0278-first-bad-version/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/siva-14092005/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siva-14092005/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siva-14092005/leetcode-tracker/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/siva-14092005/leetcode-tracker/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
