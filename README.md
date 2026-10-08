@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siva-14092005/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/siva-14092005/leetcode-tracker/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1002-find-common-characters/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/siva-14092005/leetcode-tracker/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siva-14092005/leetcode-tracker/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siva-14092005/leetcode-tracker/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1529-minimum-suffix-flips](https://github.com/siva-14092005/leetcode-tracker/tree/main/1529-minimum-suffix-flips/) | Medium |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/siva-14092005/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siva-14092005/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/siva-14092005/leetcode-tracker/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siva-14092005/leetcode-tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/siva-14092005/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/siva-14092005/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siva-14092005/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/siva-14092005/leetcode-tracker/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siva-14092005/leetcode-tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
